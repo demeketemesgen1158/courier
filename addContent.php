@@ -1,8 +1,8 @@
 <?php
 $servername="localhost";
 $username="maflinkcom";
-$password="B4mM8tO1bD9zP6x";
-$dbname="maflinkcom_caseDB";
+$password="your password";
+$dbname="your database name";
 
 $objData=$_GET["q"];
 $data=json_decode($objData, true);
