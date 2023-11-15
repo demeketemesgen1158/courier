@@ -1,8 +1,8 @@
 <?php  
 $servername="localhost";
 $username="maflinkcom";
-$password="B4mM8tO1bD9zP6x";
-$dbname="maflinkcom_caseDB";
+$password="your password";
+$dbname="your database name";
 //create connection
 
 $objData=$_GET["q"];
